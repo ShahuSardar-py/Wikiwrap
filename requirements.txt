@@ -1,0 +1,5 @@
+Wikipedia-API
+streamlit
+google-generativeai
+python-dotenv
+flask
